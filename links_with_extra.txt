@@ -103,3 +103,5 @@ http://mtrains.github.io/codenames/thomas.png
 http://mtrains.github.io/codenames/toiletatat.png
 http://mtrains.github.io/codenames/tp.png
 http://mtrains.github.io/codenames/trenchrunbikes.jpg
+http://mtrains.github.io/codenames/covidvaccine.png
+
